@@ -1,0 +1,8 @@
+put all of your code in engine/main/update.py
+
+more info inside of the two main functions:
+update()
+initialize()
+
+
+old engine may be laggy and is quite useless
